@@ -2,4 +2,4 @@ devinfo
 =======
 
 A collection of note for Web Developer
-http://developer-prosenjit.github.io/devinfo
+https://github.com/developer-prosenjit/devinfo/wiki
